@@ -9,6 +9,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@anthropic-ai/sdk": "^0.29.2"
+		"@anthropic-ai/sdk": "^0.29.2",
+		"dotenv": "^16.4.5"
 	}
 }
